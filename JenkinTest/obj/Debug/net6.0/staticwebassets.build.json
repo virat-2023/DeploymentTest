@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eH9GIVaTnLng1jP8MxXwlHbMDh0mOZYggIF6lzx/VnE=",
+  "Source": "JenkinTest",
+  "BasePath": "_content/JenkinTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
